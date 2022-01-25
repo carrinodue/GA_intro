@@ -47,6 +47,20 @@ pip install matplotlib
 jupyter lab
 ```
 
+## Launch the code
+1. Activate the virtual environment (e.g., called `venv_jLab`)
+```
+\venv_jLab\Scripts\activate
+```
+2. Launch jupyterlab
+```
+jupyter lab
+```
+3. Have fun
+4. Deactivate the virtual environment
+```
+\venv_jLab\Scripts\deactivate
+```
 
 
 
