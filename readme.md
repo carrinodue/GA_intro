@@ -63,4 +63,9 @@ jupyter lab
 ```
 
 
+# References and Thanks
+
+1. Article original by [Eric Stoltz - Evolution of a salesman](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35). Kudos to him!
+2. Algorithmes génétiques - Wikipedia: [fr.wikipedia.org/wiki/Algorithme_génétique](https://fr.wikipedia.org/wiki/Algorithme_g%C3%A9n%C3%A9tique)
+3. Problème du voyageur de commerce - Wikipedia: [fr.wikipedia.org/wiki/Problème_du_voyageur_de_commerce](https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_voyageur_de_commerce)
 
