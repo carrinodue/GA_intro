@@ -47,7 +47,7 @@ pip install matplotlib
 jupyter lab
 ```
 
-## Launch the code
+## Launch the code on the local machine
 1. Activate the virtual environment (e.g., called `venv_jLab`)
 ```
 \venv_jLab\Scripts\activate
@@ -61,6 +61,13 @@ jupyter lab
 ```
 \venv_jLab\Scripts\deactivate
 ```
+
+## Launch the code on Binder
+1. Go to https://mybinder.org/
+2. Paste the link to the github repository (https://github.com/carrinodue/GA_intro)
+3. Launch and wait...
+4. The link to share the notebook is shown below on the same page
+
 
 
 # References and Thanks
