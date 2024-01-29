@@ -21,14 +21,14 @@ jupyter lab
 ```
 
 ## Installation from scratch
-1. Create a virtual environment (e.g., called `venv_jLab`)
+1. Create a virtual environment (e.g., called `.venv`)
 ```
 py -m venv venv_jLab
 ```
 
 2. Activate the virtual environment 
 ```
-\venv_jLab\Scripts\activate
+\.venv\Scripts\activate
 ```
 3. Update pip and install jupyterlab
 ```
@@ -48,9 +48,9 @@ jupyter lab
 ```
 
 ## Launch the code on the local machine
-1. Activate the virtual environment (e.g., called `venv_jLab`)
+1. Activate the virtual environment (e.g., called `.venv`)
 ```
-\venv_jLab\Scripts\activate
+\.venv\Scripts\activate
 ```
 2. Launch jupyterlab
 ```
