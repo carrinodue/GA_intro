@@ -1,5 +1,15 @@
 # Installation - Getting started
 
+## Installation using uv
+1. Install uv (see https://docs.astral.sh/uv/getting-started/installation/)
+2. Clone this project
+3. In the project folder, run
+```
+uv sync
+```
+4. In your IDE or jupyterlab, select the virtual environment created by uv (usually in the `.venv` folder)
+
+
 ## Installation from this project
 1. Copy or Clone this project
 2. Create a virtual environment (e.g., called `venv_jLab`)
